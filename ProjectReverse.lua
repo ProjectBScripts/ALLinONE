@@ -189,8 +189,7 @@ task.spawn(function()
             connection:Disconnect()
             ScreenGui:Destroy()
                     
- loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectBScripts/Niguuj/refs/heads/main/Ranloadi"))()
-
-        end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ProjectBScripts/Niguuj/refs/heads/main/Ranloadi"))()
+        end
     end)
 end)
